@@ -14,7 +14,7 @@
                             </div>
                             <div class="card-content">
                                 <h2 class="name">
-                                    Edivan Guedes Araújo Junior
+                                    Edivan
                                 </h2>
 
                                 <!-- Ícones de redes sociais com texto na frente -->
@@ -40,14 +40,14 @@
                                 </div>
                             </div>
                             <div class="card-content">
-                                <h2 class="name">João Pedro Arruda de Souza
+                                <h2 class="name">Arruda
                                 </h2>
-                                <a href="https://www.instagram.com/João Pedro" target="_blank" class="social-icon">
+                                <a href="https://www.instagram.com/arruda" target="_blank" class="social-icon">
                                     <i class="fab fa-instagram"></i>
                                     <span class="social-text">Instagram</span> <!-- Texto ao lado do ícone -->
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-arruda-43b49a2b5/" target="_blank" class="social-icon">
+                                <a href="https://www.linkedin.com/arruda" target="_blank" class="social-icon">
                                     <i class="fab fa-linkedin"></i>
                                     <span class="social-text">LinkedIn</span> <!-- Texto ao lado do ícone -->
                                 </a>
@@ -64,14 +64,14 @@
                                 </div>
                             </div>
                             <div class="card-content">
-                                <h2 class="name">João Victor Baptista dos Santos
+                                <h2 class="name">João
                                 </h2>
-                                <a href="https://www.instagram.com/João Victor" target="_blank" class="social-icon">
+                                <a href="https://www.instagram.com/João" target="_blank" class="social-icon">
                                     <i class="fab fa-instagram"></i>
                                     <span class="social-text">Instagram</span> <!-- Texto ao lado do ícone -->
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/João Victor" target="_blank" class="social-icon">
+                                <a href="https://www.linkedin.com/in/João" target="_blank" class="social-icon">
                                     <i class="fab fa-linkedin"></i>
                                     <span class="social-text">LinkedIn</span> <!-- Texto ao lado do ícone -->
                                 </a>
@@ -87,14 +87,14 @@
                                 </div>
                             </div>
                             <div class="card-content">
-                                <h2 class="name">Diogo Souza
+                                <h2 class="name">Diogo
                                 </h2>
-                                <a href="https://www.instagram.com/Diogo Souza" target="_blank" class="social-icon">
+                                <a href="https://www.instagram.com/Diogo" target="_blank" class="social-icon">
                                     <i class="fab fa-instagram"></i>
                                     <span class="social-text">Instagram</span> <!-- Texto ao lado do ícone -->
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/Diogo Souza" target="_blank" class="social-icon">
+                                <a href="https://www.linkedin.com/in/Diogo" target="_blank" class="social-icon">
                                     <i class="fab fa-linkedin"></i>
                                     <span class="social-text">LinkedIn</span> <!-- Texto ao lado do ícone -->
                                 </a>
@@ -110,15 +110,15 @@
                                 </div>
                             </div>
                             <div class="card-content">
-                                <h2 class="name">Kaio Ribas Narcizo
+                                <h2 class="name">Kaio
 
                                 </h2>
-                                <a href="https://www.instagram.com/Kaio Ribas" target="_blank" class="social-icon">
+                                <a href="https://www.instagram.com/Kaio" target="_blank" class="social-icon">
                                     <i class="fab fa-instagram"></i>
                                     <span class="social-text">Instagram</span> <!-- Texto ao lado do ícone -->
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/Kaio Ribas" target="_blank" class="social-icon">
+                                <a href="https://www.linkedin.com/in/Kaio" target="_blank" class="social-icon">
                                     <i class="fab fa-linkedin"></i>
                                     <span class="social-text">LinkedIn</span> <!-- Texto ao lado do ícone -->
                                 </a>
@@ -134,14 +134,14 @@
                                 </div>
                             </div>
                             <div class="card-content">
-                                <h2 class="name">Alisson da Cruz Pereira
+                                <h2 class="name">Alisson
                                 </h2>
-                                <a href="https://www.instagram.com/Alisson da Cruz" target="_blank" class="social-icon">
+                                <a href="https://www.instagram.com/Alisson" target="_blank" class="social-icon">
                                     <i class="fab fa-instagram"></i>
                                     <span class="social-text">Instagram</span> <!-- Texto ao lado do ícone -->
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/Alisson da Cruz" target="_blank" class="social-icon">
+                                <a href="https://www.linkedin.com/in/Alisson" target="_blank" class="social-icon">
                                     <i class="fab fa-linkedin"></i>
                                     <span class="social-text">LinkedIn</span> <!-- Texto ao lado do ícone -->
                                 </a>
@@ -157,14 +157,14 @@
                                 </div>
                             </div>
                             <div class="card-content">
-                                <h2 class="name">Kaique Francisco da Silva
+                                <h2 class="name">Kaique
                                 </h2>
-                                <a href="https://www.instagram.com/Kaique Francisco " target="_blank" class="social-icon">
+                                <a href="https://www.instagram.com/Kaique " target="_blank" class="social-icon">
                                     <i class="fab fa-instagram"></i>
                                     <span class="social-text">Instagram</span> <!-- Texto ao lado do ícone -->
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/Kaique Francisco " target="_blank" class="social-icon">
+                                <a href="https://www.linkedin.com/in/Kaique " target="_blank" class="social-icon">
                                     <i class="fab fa-linkedin"></i>
                                     <span class="social-text">LinkedIn</span> <!-- Texto ao lado do ícone -->
                                 </a>
@@ -180,14 +180,14 @@
                                 </div>
                             </div>
                             <div class="card-content">
-                                <h2 class="name">Daniel Galindo Montano
+                                <h2 class="name">Daniel
                                 </h2>
-                                <a href="https://www.instagram.com/Daniel Galindo" target="_blank" class="social-icon">
+                                <a href="https://www.instagram.com/Daniel" target="_blank" class="social-icon">
                                     <i class="fab fa-instagram"></i>
                                     <span class="social-text">Instagram</span> <!-- Texto ao lado do ícone -->
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/Daniel Galindo" target="_blank" class="social-icon">
+                                <a href="https://www.linkedin.com/in/Daniel" target="_blank" class="social-icon">
                                     <i class="fab fa-linkedin"></i>
                                     <span class="social-text">LinkedIn</span> <!-- Texto ao lado do ícone -->
                                 </a>
@@ -203,14 +203,14 @@
                                 </div>
                             </div>
                             <div class="card-content">
-                                <h2 class="name">Lucas Damasceno da Silva
+                                <h2 class="name">Lucas
                                 </h2>
-                                <a href="https://www.instagram.com/Lucas Damasceno" target="_blank" class="social-icon">
+                                <a href="https://www.instagram.com/Lucas" target="_blank" class="social-icon">
                                     <i class="fab fa-instagram"></i>
                                     <span class="social-text">Instagram</span> <!-- Texto ao lado do ícone -->
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/Lucas Damasceno" target="_blank" class="social-icon">
+                                <a href="https://www.linkedin.com/in/Lucas" target="_blank" class="social-icon">
                                     <i class="fab fa-linkedin"></i>
                                     <span class="social-text">LinkedIn</span> <!-- Texto ao lado do ícone -->
                                 </a>
@@ -226,15 +226,15 @@
                                 </div>
                             </div>
                             <div class="card-content">
-                                <h2 class="name">Weydson Francis de Sousa Silva
+                                <h2 class="name">Weydson
 
                                 </h2>
-                                <a href="https://www.instagram.com/Weydson Francis" target="_blank" class="social-icon">
+                                <a href="https://www.instagram.com/Weydson" target="_blank" class="social-icon">
                                     <i class="fab fa-instagram"></i>
                                     <span class="social-text">Instagram</span> <!-- Texto ao lado do ícone -->
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/Weydson Francis" target="_blank" class="social-icon">
+                                <a href="https://www.linkedin.com/in/Weydson" target="_blank" class="social-icon">
                                     <i class="fab fa-linkedin"></i>
                                     <span class="social-text">LinkedIn</span> <!-- Texto ao lado do ícone -->
                                 </a>
@@ -248,9 +248,9 @@
             </div>
         </div>
         </section>
-        <script>
+      
          <script src="{{ url('js/carousel.js') }}"></script>
          <script src="{{ url('js/nScript.js') }}"></script>
          <script src="https://cdn.jsdelivr.net/npm/swiper@11.1.15/swiper-bundle.min.js"></script>
-        </script>
+        
     </main>
